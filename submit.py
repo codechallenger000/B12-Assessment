@@ -9,7 +9,7 @@ SIGNING_SECRET = b"hello-there-from-b12"
 ENDPOINT = "https://b12.io/apply/submission"
 
 payload = {
-    "action_run_link": "https://github.com/codechallenger000/B12-Assessment/actions/runs/<run_id>",
+    "action_run_link": "https://github.com/codechallenger000/B12-Assessment/actions/runs/21640031438",
     "email": "dalinhuang12@gmail.com",
     "name": "Dalin Huang",
     "repository_link": "https://github.com/codechallenger000/B12-Assessment",
